@@ -1,0 +1,48 @@
+h2 {
+  font-size: 70px;
+}
+div.info {
+  margin-left: 100px;
+}
+
+.btn {
+  border: 1px solid gray;
+}
+
+.card {
+  margin-top: 50px;
+  padding: 40px;
+}
+.actual-temperature {
+  text-align: center;
+}
+
+i.actual-temperature {
+  font-size: 80px;
+  margin: 10px;
+}
+
+.future {
+  text-align: center;
+  margin-top: 50px;
+}
+.credits {
+  text-align: end;
+  font-size: 12px;
+}
+
+.fa-cloud,
+.fa-sun,
+.fa-cloud-sun-rain,
+.fa-cloud-sun {
+  font-size: 30px;
+}
+
+.col {
+  margin: 30px;
+}
+
+.search-form {
+  margin-bottom: 80px;
+  align-content: center;
+}
